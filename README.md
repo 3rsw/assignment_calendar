@@ -1,9 +1,11 @@
 # Purpose
-This app was created to practice react.
+This app was created to practice react, and to save me making the same spreadsheet with different dates every term.
 
-# Functionality
-So far the calendar only has UNSW dates for 2022. These will be added later.
+# Future Functionality
+So far the calendar only has UNSW dates for 2022. More dates (and possibly more unis), will be added later.
 There is currently no persistence, this will be added later by incorporating nedb. 
+Uses electron so there are no server costs, but later, web app including login functionality may be added.
+
 
 
 
