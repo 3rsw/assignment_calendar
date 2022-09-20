@@ -1,3 +1,12 @@
+# Purpose
+This app was created to practice react.
+
+# Functionality
+So far the calendar only has UNSW dates for 2022. These will be added later.
+There is currently no persistence, this will be added later by incorporating nedb. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
